@@ -1,6 +1,6 @@
 
 # 🎯 Guessing Game (Python)
-A Fun Interactive Guessing game where we have to guess the number and  after each try computer will give hints to guess the number.
+A Fun Interactive Guessing game where we have to guess the number and after each try computer will give hints to guess the number correctly.
 The one who takes lesser no of turns to guess the random number wins. 
 It can also be played other way around where computer will try to guess our secret number we have in our mind.
 
